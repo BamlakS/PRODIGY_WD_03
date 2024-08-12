@@ -13,7 +13,7 @@ Game restart functionality
 
 ## Technologies
 
-HTML5
+HTML
 
 CSS3
 
