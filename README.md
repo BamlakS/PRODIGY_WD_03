@@ -23,4 +23,4 @@ JavaScript
 
 For any inquiries or collaborations, feel free to reach out:
 
-- LinkedIn: [Bamlak Amedie] (https://www.linkedin.com/in/bamlak-amedie/)
+- LinkedIn: [Bamlak Amedie](https://www.linkedin.com/in/bamlak-amedie/)
