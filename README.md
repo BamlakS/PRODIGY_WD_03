@@ -1,8 +1,8 @@
-# Tic-Tac-Toe Game
+# Prodigy InfoTech Internship: Tic-Tac-Toe Game
 
 ## Overview
 
-A simple, web-based Tic-Tac-Toe game where players can choose between "X" and "O" and play on a 3x3 grid. The game announces the winner or a draw and allows for easy restarts.
+To build a tic-tac-toe web application, you can use HTML, CSS, and JavaScript. By implementing functions to handle user clicks, track game state, and check for winning conditions, you can create an interactive and engaging tic-tac-toe game. With these technologies and functionalities, users can play against each other, aiming to get three markers in a row to win the game.
 
 ## Features
 
@@ -19,6 +19,8 @@ CSS3
 
 JavaScript
 
-## License
+## Contact Information
 
-Licensed under the MIT License.
+For any inquiries or collaborations, feel free to reach out:
+
+- LinkedIn: [Bamlak Amedie] (https://www.linkedin.com/in/bamlak-amedie/)
