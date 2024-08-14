@@ -1,4 +1,4 @@
-# Prodigy InfoTech Internship: Tic-Tac-Toe Game
+# Prodigy InfoTech Task 3: Tic-Tac-Toe Game
 
 ## Overview
 
