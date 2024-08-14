@@ -19,6 +19,12 @@ CSS3
 
 JavaScript
 
+## Knowledge Gained
+
+- Implementing game logic with JavaScript
+- Handling user interactions and events
+- Applying CSS Grid for layout design
+  
 ## Contact Information
 
 For any inquiries or collaborations, feel free to reach out:
