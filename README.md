@@ -1,4 +1,4 @@
-# Prodigy InfoTech WD Internship Task-03: Tic-Tac-Toe Web
+# Prodigy InfoTech Web Development Internship Task-03: Tic-Tac-Toe Web
 
 ## Overview
 
@@ -15,7 +15,7 @@ Game restart functionality
 
 HTML
 
-CSS3
+CSS
 
 JavaScript
 
